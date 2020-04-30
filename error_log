@@ -1,0 +1,126 @@
+[29-Apr-2020 20:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php on line 16
+[29-Apr-2020 20:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php on line 16
+[29-Apr-2020 20:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php on line 16
+[29-Apr-2020 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/add-users.php on line 16
+[30-Apr-2020 10:36:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:36:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:36:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:37:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:37:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:37:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:37:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:37:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 17:40:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 6
+[30-Apr-2020 17:40:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 6
+[30-Apr-2020 10:41:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:41:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:41:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:42:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:42:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:42:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:42:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:43:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:43:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:43:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:43:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:44:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:44:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:44:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:44:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 /home/gianmyid/uts.pabw.gian32.my.id/welcome.php(2): include('/home/gianmyid/...')
+#2 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:47:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 3
+[30-Apr-2020 10:47:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gianmyid/uts.pabw.gian32.my.id/session.php:7
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/session.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/session.php on line 7
+[30-Apr-2020 10:48:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:48:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:48:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gianmyid_uts.admin' doesn't exist in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:51:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:51:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:51:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gianmyid_uts.admin' doesn't exist in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:53:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:53:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:53:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gianmyid_uts.admin' doesn't exist in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:53:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:53:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 10:53:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gianmyid_uts.admin' doesn't exist in /home/gianmyid/uts.pabw.gian32.my.id/index2.php:9
+Stack trace:
+#0 /home/gianmyid/uts.pabw.gian32.my.id/index2.php(9): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 9
+[30-Apr-2020 10:53:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/index2.php on line 3
+[30-Apr-2020 12:21:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/login2.php on line 75
+[30-Apr-2020 12:22:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gianmyid/uts.pabw.gian32.my.id/login2.php on line 75
